@@ -31,7 +31,7 @@ Synthesized Synthetic Depth-of-Field (Focused on Background)
 ### Contents
 
 This repository contains:
-1) Local_Light_Field_Synthesis.ipynb Jupyter notebook with an implementation of our algorithm.
+1) Local_Light_Field_Synthesis.ipynb Jupyter notebook with an implementation of our algorithm. Note that this code may contain slight updates and modifications to the code used in our paper.
 
 ### Dependencies
 
