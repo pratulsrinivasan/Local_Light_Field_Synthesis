@@ -9,7 +9,7 @@ In the International Conference on Computer Vision (ICCV) 2017 (Spotlight Oral P
 
 Example Input 2D Image
 
-![Example Input 2D Image](https://people.eecs.berkeley.edu/~pratul/lf_synthesis/central.tif)
+![Example Input 2D Image](https://people.eecs.berkeley.edu/~pratul/lf_synthesis/central.png)
 
 Predicted 4D Ray Depths
 
@@ -21,12 +21,12 @@ Synthesized 4D Light Field
 
 Synthesized Synthetic Depth-of-Field (Focused on Flower)
 
-![Synthesized Synthetic Depth-of-Field](https://people.eecs.berkeley.edu/~pratul/lf_synthesis/full.tif)
+![Synthesized Synthetic Depth-of-Field](https://people.eecs.berkeley.edu/~pratul/lf_synthesis/full.png)
 
 
 Synthesized Synthetic Depth-of-Field (Focused on Background)
 
-![Synthesized Synthetic Depth-of-Field](https://people.eecs.berkeley.edu/~pratul/lf_synthesis/full2.tif)
+![Synthesized Synthetic Depth-of-Field](https://people.eecs.berkeley.edu/~pratul/lf_synthesis/full2.png)
 
 ### Contents
 
