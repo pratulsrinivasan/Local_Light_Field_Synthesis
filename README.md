@@ -1,4 +1,4 @@
-## Local_Light_Field_Synthesis
+## Learning to Synthesize a 4D RGBD Light Field from a Single Image
 
 [Pratul P. Srinivasan](https://people.eecs.berkeley.edu/~pratul/), Tongzhou Wang, Ashwin Sreelal, [Ravi Ramamoorthi](http://cseweb.ucsd.edu/~ravir/), [Ren Ng](http://www.eecs.berkeley.edu/Faculty/Homepages/yirenng.html/)
 
