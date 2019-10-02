@@ -5,7 +5,7 @@
 In the International Conference on Computer Vision (ICCV) 2017 (Spotlight Oral Presentation)
 
 
-[Paper](https://people.eecs.berkeley.edu/~pratul/ICCV17_LF_Synthesis.pdf), [Video](https://youtu.be/yLCvWoQLnms), [Flowers Dataset (~169 GB)](https://cseweb.ucsd.edu/~viscomp/projects/LF/papers/ICCV17/lfsyn/LF_Flowers_Dataset.tar.gz), [Supplementary Material](https://people.eecs.berkeley.edu/~pratul/ICCV17_LF_Synthesis_Supplementary.pdf)
+[Paper](https://cseweb.ucsd.edu/~ravir/pratul_iccv.pdf), [Video](https://youtu.be/yLCvWoQLnms), [Flowers Dataset (~169 GB)](https://cseweb.ucsd.edu/~viscomp/projects/LF/papers/ICCV17/lfsyn/LF_Flowers_Dataset.tar.gz), [Supplementary Material](https://people.eecs.berkeley.edu/~pratul/ICCV17_LF_Synthesis_Supplementary.pdf)
 
 Example Input 2D Image
 
