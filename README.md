@@ -1,11 +1,11 @@
 ## Learning to Synthesize a 4D RGBD Light Field from a Single Image
 
-[Pratul P. Srinivasan](https://people.eecs.berkeley.edu/~pratul/), Tongzhou Wang, Ashwin Sreelal, [Ravi Ramamoorthi](http://cseweb.ucsd.edu/~ravir/), [Ren Ng](http://www.eecs.berkeley.edu/Faculty/Homepages/yirenng.html/)
+[Pratul P. Srinivasan](https://people.eecs.berkeley.edu/~pratul/), [Tongzhou Wang](https://ssnl.github.io/), Ashwin Sreelal, [Ravi Ramamoorthi](http://cseweb.ucsd.edu/~ravir/), [Ren Ng](http://www.eecs.berkeley.edu/Faculty/Homepages/yirenng.html/)
 
 In the International Conference on Computer Vision (ICCV) 2017 (Spotlight Oral Presentation)
 
 
-[Paper](https://people.eecs.berkeley.edu/~pratul/ICCV17_LF_Synthesis.pdf), [Video](https://youtu.be/yLCvWoQLnms), [Flowers Dataset (~169 GB)](https://cseweb.ucsd.edu/~viscomp/projects/LF/papers/ICCV17/lfsyn/LF_Flowers_Dataset.tar.gz), [Supplementary Material](https://people.eecs.berkeley.edu/~pratul/ICCV17_LF_Synthesis_Supplementary.pdf)
+[Paper](https://arxiv.org/abs/1708.03292), [Video](https://youtu.be/yLCvWoQLnms), [Flowers Dataset (~169 GB)](https://cseweb.ucsd.edu/~viscomp/projects/LF/papers/ICCV17/lfsyn/LF_Flowers_Dataset.tar.gz), [Supplementary Material](https://people.eecs.berkeley.edu/~pratul/pdf/ICCV17_LF_Synthesis_Supplementary.pdf)
 
 Example Input 2D Image
 
